@@ -249,6 +249,13 @@ a:hover{
     text-align: center;
     zoom: 250%;
   }
+
+  .page, .aboutPage, .projectPage, .contactPage{
+    zoom: 150%;
+  }
+  li{
+    padding-bottom: 2%;
+  }
 /* Home Page */
 
   .myName{
