@@ -251,7 +251,7 @@ a:hover{
   }
 
   .page, .aboutPage, .projectPage, .contactPage{
-    zoom: 150%;
+    /* zoom: 150%; */
   }
   li{
     padding-bottom: 2%;
