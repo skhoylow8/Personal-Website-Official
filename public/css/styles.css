@@ -162,8 +162,10 @@ a:hover {
 }
 
 .id-photo {
-  width: 60%;
-  clip-path: circle(45%);
+  clip-path: circle(50%);
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
 }
 
 .photo-container {
